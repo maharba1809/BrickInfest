@@ -24,7 +24,7 @@ void read(){
 		
 	//videogame options
 	input.up=10;//Live
-	level=11;
+	level=1;
 	up_ini=input.up;/*backup*/
 	max_text=1;
 
